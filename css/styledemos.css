@@ -1,0 +1,72 @@
+html{
+    overflow-x: hidden;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    background: #1ccacd;
+    padding: 0 150px;
+}
+.owlc>p>i{
+    position: relative;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 22px;
+    color: white;
+}
+.navbar{
+    padding: 25px 0;
+    text-align: right;
+}
+.navbar>p{
+    display: inline;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    font-size: 15px;
+    padding: 0 15px;
+}
+.demos{
+    position: relative;
+    background: rgb(243, 243, 243);
+    padding: 0 150px;
+}
+.tdemos{
+    position: relative;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 33px;
+    top: 10px;
+}
+.tittle{
+    position: relative;
+    font-family: 'Quicksand', sans-serif;
+    padding: 0 150px;
+    padding-top: 50px;
+    font-size: 23px;
+    font-weight: bold;
+}
+.kotak{
+    padding: 5px 150px;
+}
+.rec{
+    height: 100px;
+    background: rgb(221, 221, 221);
+    font-family: 'Quicksand', sans-serif;
+    padding-top: 15px;
+    padding-left: 15px;
+    font-weight: bold;
+}
+.rec:hover{
+    background: #1ccacd;
+    color: white;
+}
+.footer{
+    position: relative;
+    text-align: center;
+    font-size: 16px;
+    color: #1ccacd;
+    font-family: 'Quicksand', sans-serif;
+    padding: 0 180px;
+    padding-top: 100px;
+    padding-bottom: 30px;
+}

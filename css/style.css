@@ -1,0 +1,276 @@
+html{
+    overflow-x: hidden;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    background: #1ccacd;
+    padding: 0 150px;
+}
+.owlc>p>i{
+    position: relative;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 22px;
+    color: white;
+}
+.navbar{
+    padding: 25px 0;
+    text-align: right;
+}
+.navbar>p{
+    display: inline;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    font-size: 15px;
+    padding: 0 15px;
+}
+.sec1{
+    position: relative;
+    background: #1ccacd;
+    padding: 0 150px;
+    padding-top: 20px;
+}
+.owlcarousel{
+    position: relative;
+    top: 30px;
+    font-size: 55px;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+}
+.s1text{
+    position: relative;
+    font-size: 22px;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+}
+.s1bag2{
+    padding-top: 50px;
+    text-align: center;
+}
+.button{
+    padding: 15px 0;
+}
+.button>div{
+    position: relative;
+    display: inline-flex;
+}
+.bttn-download{
+    background: white;
+    border: 1px solid white;
+    font-family: 'Quicksand', sans-serif;
+    color: #1ccacd;
+    font-size: 22px;
+    padding: 15px 25px;
+}
+.bttn-download:hover{
+    background: #ff3f4d;
+    border: 1px solid #ff3f4d;
+    color: #FFF;
+}
+.bttn-github{
+    background: #1ccacd;
+    border: 1px solid white;
+    font-family: 'Quicksand', sans-serif;
+    padding: 15px 25px;
+    font-size: 22px;
+    color: white;
+}
+.bttn-github:hover{
+    background: #ff3f4d;
+    border: 1px solid #ff3f4d;
+    color: white;
+}
+.versi>p{
+    position: relative;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    padding-bottom: 43px;
+    top: -20px;
+}
+.demo{
+    position: relative;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 35px;
+    color: #808080;
+}
+.redbox{
+    padding: 0 150px;
+    
+}
+.redbox>div{
+    position: relative;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+    color: white;
+}
+.swipe{
+    background: #ff3f4d;
+    padding: 100px 0;
+    border: 1px solid white;
+}
+.swipe:hover{
+    background: white;
+    color: #ff3f4d;
+    border: 1px solid #ff3f4d;
+}
+.drag{
+    background: #ff3f4d;
+    padding: 100px 0;
+    border: 1px solid white;
+}
+.drag:hover{
+    background: white;
+    color: #ff3f4d;
+    border: 1px solid #ff3f4d;
+}
+.responsive{
+    background: #ff3f4d;
+    padding: 100px 0;
+    border: 1px solid white;
+}
+.responsive:hover{
+    background: white;
+    color: #ff3f4d;
+    border: 1px solid #ff3f4d;
+}
+.isi1{
+    padding: 0 270px;
+    padding-top: 50px;
+}
+.bag1{
+    position: relative;
+    text-align: center;
+}
+.b1t{
+    font-family: 'Quicksand', sans-serif;
+}
+.judul1{
+    font-size: 35px;
+}
+.optionstext{
+    font-size: 16px;
+}
+.isi2{
+    padding: 0 270px;
+    padding-top: 50px;
+}
+.bag2{
+    position: relative;
+    text-align: center;
+}
+.b2t{
+    font-family: 'Quicksand', sans-serif;
+}
+.judul2{
+    font-size: 35px;
+}
+.dragtext{
+    font-size: 16px;
+}
+.isi3{
+    padding: 0 270px;
+    padding-top: 50px;
+}
+.bag3{
+    position: relative;
+    text-align: center;
+}
+.b3t{
+    font-family: 'Quicksand', sans-serif;
+}
+.judul3{
+    font-size: 35px;
+}
+.dragtext{
+    font-size: 16px;
+}
+.isi4{
+    padding: 0 270px;
+    padding-top: 50px;
+}
+.bag4{
+    position: relative;
+    text-align: center;
+}
+.b4t{
+    font-family: 'Quicksand', sans-serif;
+}
+.judul4{
+    font-size: 35px;
+}
+.moderntext{
+    font-size: 16px;
+}
+.isi5{
+    padding: 0 270px;
+    padding-top: 50px;
+}
+.bag5{
+    position: relative;
+    text-align: center;
+}
+.b5t{
+    font-family: 'Quicksand', sans-serif;
+}
+.judul5{
+    font-size: 35px;
+}
+.zombietext{
+    font-size: 16px;
+}
+.isi6{
+    padding: 0 270px;
+    padding-top: 50px;
+}
+.bag6{
+    position: relative;
+    text-align: center;
+}
+.b6t{
+    font-family: 'Quicksand', sans-serif;
+}
+.judul6{
+    font-size: 35px;
+}
+.moduletext{
+    font-size: 16px;
+}
+.line1{
+    position: relative;
+    top: 100px;
+    width: 1000px;
+}
+.isi7{
+    position: relative;
+    text-align: center;
+    font-size: 25px;
+    color: #1ccacd;
+    font-family: 'Quicksand', sans-serif;
+    padding: 0 180px;
+    top: 110px;
+}
+.isi8{
+    position: relative;
+    text-align: center;
+    font-size: 16px;
+    color: gray;
+    font-family: 'Quicksand', sans-serif;
+    padding: 0 180px;
+    top: 120px;
+}
+.isi9{
+    position: relative;
+    text-align: center;
+    font-size: 16px;
+    color: #1ccacd;
+    font-family: 'Quicksand', sans-serif;
+    padding: 0 180px;
+    padding-top: 200px;
+    padding-bottom: 30px;
+}
